@@ -39,3 +39,6 @@ async function createAdmin() {
 }
 
 createAdmin();
+
+
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZjFiZmU3ZWE4NWFlMGI5YjMxMmRmNiIsInJvbGUiOiJzdXBlcl9hZG1pbiIsImlhdCI6MTc5NDIyODM4NiwiZXhwIjoxNzk0MzE0Nzg2fQ.MFab5Z8WvLNl6itn_DBIOxqNFTmt0FPaubddnPJrja4
