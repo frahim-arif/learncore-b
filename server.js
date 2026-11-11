@@ -35,6 +35,7 @@ require('./app/routes/website/course.routes.js')(server);
 require('./app/routes/website/progress.routes.js')(server);
 require('./app/routes/website/coursePayment.routes.js')(server);
 require('./app/routes/website/enrollment.routes.js')(server);
+require('./app/routes/website/publicCourse.routes.js')(server);
 
 // 404 Route
 server.use((req, res) => {
